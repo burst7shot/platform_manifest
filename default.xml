@@ -9,8 +9,8 @@
           review="https://android-review.googlesource.com/" />
   <remote name="bitbucket"
           fetch="https://bitbucket.org/" />
-  <!--<remote name="burstlam"
-          fetch="https://github.com/burstlam/" />--> <!--add it back in local_manifests-->
+  <remote name="burstlam"
+          fetch="https://github.com/burstlam/" />
   <remote name="cm"
           fetch="https://github.com/CyanogenMod"
           review="review.cyanogenmod.com" />
